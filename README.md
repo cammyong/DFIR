@@ -51,10 +51,11 @@ My journey in Telecommunication Engineering has led me to develop a passion for 
 <div>
 <img src="https://img.shields.io/badge/-Microsoft%20Azure%20Security%20Engineer-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure Security Engineer" />
 <img src="https://img.shields.io/badge/-AWS%20Security%20Specialty-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Security Specialty" />
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/-Certified_Kubernetes_Administrator-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Certified Kubernetes Administrator" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-HashiCorp%20Terraform%20Associate-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="HashiCorp Terraform Associate" />
-<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+
 
 
   
