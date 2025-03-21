@@ -6,7 +6,7 @@ I am a dedicated cybersecurity professional with a strong background in protecti
 
 ## Objective
 
-My journey in Telecommunication Engineering has led me to develop a passion for cybersecurity. I aim to contribute to an innovative organization where my technical skills and proactive approach can drive continuous improvement and advance cybersecurity strategies.
+I aim to contribute to an innovative organization where my technical skills and proactive approach can drive continuous improvement and advance cybersecurity strategies.
 
 
 
